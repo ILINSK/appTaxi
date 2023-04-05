@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671534917702",
+    "firebase_url": "https://apptaxidb-default-rtdb.firebaseio.com",
+    "project_id": "apptaxidb",
+    "storage_bucket": "apptaxidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671534917702:android:970c5f58f834f15b45c247",
+        "android_client_info": {
+          "package_name": "com.example.apptaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671534917702-ek91he2u5890mfuik7msccg8o5k7frr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDLM1c9u5aM8Sq0M0pF2UIp3-Cdd-wg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671534917702-ek91he2u5890mfuik7msccg8o5k7frr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

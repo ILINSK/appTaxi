@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appTaxi</string>
+    <string name="my_map_api_key">AIzaSyBhJVcIhxIXzXTaH9ZBxQHX-s-xMSUUbW8</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+</resources>
